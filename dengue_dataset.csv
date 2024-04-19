@@ -1,0 +1,618 @@
+timestamp,name(first name only):,gender,email,district,fever,eye_pain,muscle_pain,headache,bone_pain,nausea_or_vomitting,rash,joint_pain,bp,platelet_count,dengue
+1/29/2024 12:14:51,Rosh,Male,rrherox007@gmail.com,Pathanamthitta,1,0,1,1,0,1,0,1,120/85,450000,0
+1/29/2024 13:40:14,Prayag,Male,prxyag99@gmail.com,Kollam,1,0,1,1,1,1,1,1,145/90,650000,0
+1/29/2024 14:17:13,Navin,Male,navinshibu12@gmail.com,Kollam,1,1,1,1,1,1,1,1,95/64,115000,1
+1/29/2024 14:20:44,Nitha,Female,navinshibu12@gmail.com,Kollam,1,0,1,0,1,0,1,0,155/98,125000,1
+1/29/2024 14:20:26,Navin,Male,navinshibu12@gmail.com,Kollam,0,1,0,1,0,1,0,1,125/88,255000,0
+1/29/2024 14:23:24,Shibu,Male,navinshibu12@gmail.com,Kollam,1,0,1,0,0,1,1,1,99/76,98000,1
+1/29/2024 14:24:52,Jaice,Female,navinshibu12@gmail.com,Kollam,0,1,0,1,0,1,1,0,122/89,380000,0
+1/29/2024 14:28:06,Roshan,Male,rrherox007@gmail.com,Pathanamthitta,0,1,1,0,1,1,1,0,89/66,130000,1
+1/29/2024 14:30:30,Roy,Male,rrherox007@gmail.com,Pathanamthitta,1,1,1,1,1,1,1,1,88/56,233000,1
+1/29/2024 14:31:42,Siji,Female,rrherox007@gmail.com,Pathanamthitta,0,0,1,1,1,1,0,1,122/82,261000,1
+1/29/2024 14:34:02,Rayson,Male,rrherox007@gmail.com,Pathanamthitta,1,1,1,0,0,0,0,1,79/55,315000,0
+1/31/2024 9:02:02,Riza,Female,riyamercethomasrmt@gmail.com,Kottayam,1,0,1,1,0,1,0,1,120/80,335000,0
+1/29/2024 14:38:57,Varghese,Male,rrherox007@gmail.com,Pathanamthitta,0,1,0,1,1,1,0,0,122/84,109000,1
+1/29/2024 14:42:13,Mercy,Female,riyamercethomasrmt@gmail.com,Kottayam,0,1,1,1,1,0,0,1,130/90,150000,0
+1/29/2024 14:42:48, Mercy,Female,rrherox007@gmail.com,Pathanamthitta,1,1,1,0,0,0,0,0,120/80,374000,0
+1/29/2024 14:50:46,Thomas,Male,riyamercethomasrmt@gmail.com,Kottayam,1,1,1,1,1,1,0,1,125/85,130000,0
+1/29/2024 14:53:07,George,Male,rrherox007@gmail.com,Pathanamthitta,1,1,0,1,0,1,1,1,125/80,123000,1
+1/29/2024 14:58:10,Aby,Male,,Alappuzha,1,0,1,0,0,1,1,0,82/58,102000,1
+1/29/2024 14:58:51,Karthik,Male,,Alappuzha,0,0,0,0,0,0,0,0,100/70,321000,0
+1/29/2024 14:59:50,Suresh,Male,,Alappuzha,1,1,1,1,1,1,0,1,125/86,234000,0
+1/29/2024 15:01:08,Vidhya,Female,,Alappuzha,1,1,1,1,1,1,1,1,111/66,120000,1
+1/29/2024 15:02:22,Sini,Female,riyamercethomasrmt@gmail.com,Kottayam,1,1,1,1,1,1,0,1,125/80,450000,0
+1/29/2024 15:02:25,Vignesh,Male,,Alappuzha,0,1,0,1,0,1,0,0,83/49,508000,0
+1/29/2024 15:03:49,Rohan,Male,,Ernakulam,0,0,1,1,0,0,1,1,129/92,402000,0
+1/29/2024 15:03:57,Beroy,Male,riyamercethomas@gmail.com,Kottayam,0,0,1,1,0,0,0,1,120/80,225500,0
+1/29/2024 15:08:04,Akhil,Male,,Ernakulam,1,0,1,1,0,0,0,1,130/90,520000,0
+1/29/2024 15:14:22,Richa,Female,riyamercethomas@gmail.com,Kottayam,0,1,1,0,0,1,0,1,100/70,123005,1
+1/29/2024 15:19:33,Sara,Female,riyamercethomas@gmail.com,Kottayam,1,1,1,1,0,1,0,0,150/95,350000,0
+1/29/2024 15:21:36,Mary,Female,riyamercethomas@gmail.com,Kottayam,0,0,1,1,1,1,0,1,130/85,145005,0
+1/29/2024 15:23:40,Joseph,Male,rriyamercethoma@gmail.com,Kottayam,1,0,1,1,1,1,1,1,150/90,455500,0
+1/29/2024 15:25:31,Christeena,Female,christy@gmail.com,Kottayam,1,1,1,1,0,1,0,1,98/65,175000,1
+1/29/2024 15:30:23,Raju,Male,rajj@gmail.com,Kottayam,0,1,1,1,1,1,1,0,125/85,335500,0
+1/29/2024 15:32:34,Neenu,Female,neenumaria@gmail.com,Kottayam,1,0,1,1,0,1,1,1,135/86,140500,1
+1/29/2024 15:34:36,Meenu,Female,meenu@gmail.com,Kottayam,1,1,1,1,1,1,0,0,110/75,135990,1
+1/29/2024 15:46:53,Joyal,Male,joyall@gmail.com,Kottayam,1,0,1,1,0,0,0,1,125/80,250000,0
+1/29/2024 15:50:23,Christo,Male,christo@gmail.com,Kottayam,1,0,1,1,0,1,0,1,121/81,133997,1
+1/29/2024 15:59:25,Leo,Male,,Kottayam ,1,1,1,1,1,0,0,1,110/80,250000,0
+1/30/2024 15:39:55,Geetha,Female,geetha@gmail.com,Kottayam,0,0,1,0,0,0,0,0,120/80,345500,0
+1/31/2024 9:02:10,Mariyam ,Female,emammariyam@gmail.com,Trivandrum,1,0,1,1,0,0,0,1,120/80,500000,0
+1/31/2024 9:02:27,Sreelakshmi A ,Female,sreelakshmianish20@gmail.com,Kottayam ,0,0,0,1,0,0,0,0,120/80,175000,0
+1/31/2024 9:02:27,Ranvijay,Male,,Idukki,1,0,1,0,1,0,0,1,96/55,120000,0
+1/31/2024 9:03:31,Karthik ,Male,karthikskumar2@gmail.com,Alappuzha,0,0,1,1,0,0,0,1,125/85,150000,0
+1/31/2024 9:03:53,Arjun ,Male,arjunjayan76@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,150/95,500000,0
+1/31/2024 9:03:58,Aafia,Female,,Trivandrum,1,1,1,0,1,1,0,1,90/60,100000,1
+1/31/2024 9:04:20,Riyaz,Male,,Idukki,1,1,0,0,1,1,0,0,80/50,234000,1
+1/31/2024 9:05:55,Salman,Male,,Trivandrum,1,0,1,1,0,1,0,1,90/60,330000,0
+1/31/2024 9:06:37,Lakshmi ,Female,,Kottayam,1,0,1,1,1,0,1,0,100/75,200000,0
+1/31/2024 9:06:47,Karthik S,Male,karthiksabhal2001@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,125/85                                                 ,400000,0
+1/31/2024 9:07:18,Rahul,Male,,Kollam,0,1,1,1,0,0,0,1,120/80,205000,0
+1/31/2024 9:14:16,Elias ,Male,eliastkurian@gmail.com,Kottayam ,0,0,0,0,0,0,0,0,125/85,350000,0
+1/31/2024 9:17:30,Kevin ,Male,,Kottayam ,0,0,0,0,0,0,0,0,100/70                                              ,360987,0
+1/31/2024 9:28:26,Vaisakhkrishnan ,Male,kvaisakhkrishnan@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,130/90,300000,0
+1/31/2024 9:49:19,Ebeal ,Male,ebealjb000@gmail.com,Idukki ,0,0,0,0,0,0,0,0,120/80,354500,0
+1/31/2024 9:59:34,Ashiq,Male,,Ernakulam,1,1,1,1,0,0,0,1,134/85,130000,1
+1/31/2024 10:00:36,Sushmitha,Female,,Pathanamthitta,1,1,0,1,0,1,1,1,149/93,267000,0
+1/31/2024 10:04:44,Athira,Female,,Ernakulam,1,0,1,1,0,1,0,0,120/80,200000,0
+1/31/2024 10:06:33,Bru0,Male,,Kottayam,1,0,1,0,1,0,1,1,109/69,355000,0
+1/31/2024 10:07:23,Manas,Male,,Pathanamthitta,0,0,0,0,0,1,0,1,90/60,145000,1
+1/31/2024 10:09:12,Akhil,Male,,Kollam,0,1,0,1,1,1,0,1,130/90,190000,0
+1/31/2024 10:10:12,Rima,Female,,Kottayam,1,0,1,1,0,0,1,0,114/73,124000,0
+1/31/2024 10:10:35,Rema,Female,,Kottayam,1,0,0,1,1,1,1,1,125/86,350000,0
+1/31/2024 10:11:16,Abraham,Male,,Alappuzha,0,0,0,0,0,0,0,0,125/75,200000,0
+1/31/2024 10:12:33,Stormi,Female,,Pathanamthitta,1,0,1,1,0,0,0,0,125/84,325000,0
+1/31/2024 10:12:57,Reema,Female,,Ernakulam,1,0,1,1,0,1,1,1,128/85,223005,0
+1/31/2024 10:14:31,Govind,Male,,Ernakulam,1,0,1,0,0,0,1,0,130/85,300000,0
+1/31/2024 10:15:20,Tessa,Female,,Kollam ,1,1,1,1,0,1,0,0,130/87,145000,1
+1/31/2024 10:15:23,Krishnakumar,Male,,Kollam,1,1,0,1,1,0,0,0,120/77,372000,0
+1/31/2024 10:15:35,Joby,Male,,Kottayam,1,0,1,1,0,0,0,0,125/75,195000,0
+1/31/2024 10:16:35,Ganeshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,128/87,350000,0
+1/31/2024 10:17:36,Sita,Female,,Kottayam ,0,0,0,1,0,0,0,0,120/80,445000,0
+1/31/2024 10:17:39,Sureshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,122/88,317000,0
+1/31/2024 10:18:34,Hymavathiamma,Female,,Alappuzha,0,1,0,1,0,0,1,1,135/75,150000,0
+1/31/2024 10:19:00,Karthika,Female,,Kottayam,0,0,0,0,0,0,0,0,124/84,235000,0
+1/31/2024 10:20:27,Ramanan,Male,,Kottayam,0,0,0,1,0,1,0,1,120/80,354000,0
+1/31/2024 10:20:38,Rameshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,126/87                                               ,179000,0
+1/31/2024 10:21:09,Rahul,Male,,Alappuzha,0,0,0,0,0,0,0,0,120/85,160000,0
+1/31/2024 10:22:51,Fahad,Male,,Ernakulam,0,1,0,0,1,1,0,0,120/85,250000,0
+1/31/2024 10:23:01,Niggeshkumar,Male,,Kollam,0,0,0,0,0,0,0,1,132/89,344000,0
+1/31/2024 10:23:08,Akshay ,Male,akshaymurali002@gmail.com,Kollam,1,1,1,1,0,0,0,0,115/85,350000,0
+1/31/2024 10:23:42,Ajay,Male,,Ernakulam,0,0,0,1,0,0,0,0,127/85,415000,0
+1/31/2024 10:25:56,Kumari,Female,,Ernakulam,1,1,1,0,1,1,1,0,135/90,460000,1
+1/31/2024 10:27:46,Meera,Female,,Kottayam ,0,0,1,0,0,0,0,0,125/80,234500,0
+1/31/2024 10:27:54,Sukumar,Male,,Kollam,1,0,1,1,0,1,0,1,109/70,128000,1
+1/31/2024 10:30:28,Aswin,Male,aswinsanthosh1983@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,100/70,450000,0
+1/31/2024 10:32:35,Vikaskumar,Male,,Ernakulam,1,0,1,0,1,1,1,1,140/95,111000,1
+1/31/2024 10:32:49,Sukathakumari,Female,,Ernakulam,0,0,1,1,0,0,0,0,130/85,235000,0
+1/31/2024 10:33:57,Nazim,Female,,Ernakulam,1,0,0,0,0,1,0,0,120/80,150000,1
+1/31/2024 10:35:11,Afra,Female,,Kollam,0,0,0,0,0,1,0,0,125/70,200000,1
+1/31/2024 10:35:18,Geetanjali,Female,,Kollam,0,1,1,0,1,1,0,0,121/81,350000,0
+1/31/2024 10:35:34,Seema,Female,,Ernakulam,1,1,1,1,0,1,0,1,90/60,123000,1
+1/31/2024 10:37:55,Haroon,Male,,Alappuzha,0,1,1,1,1,0,0,1,120/80,250000,0
+1/31/2024 10:38:19,Anjana,Female,,Kollam,0,0,0,1,1,1,0,0,130/80,230000,0
+1/31/2024 10:39:26,Loki,Male,,Alappuzha,1,1,1,1,1,1,1,1,137/92,375000,0
+1/31/2024 11:13:40,Soman,Male,,Ernakulam,1,0,1,0,1,0,0,0,115/69,120000,1
+1/31/2024 11:13:59,Sanjana,Female,,Ernakulam,1,0,1,1,0,0,0,0,90/65,123576,1
+1/31/2024 11:16:43,Shyam ,Male,,Alappuzha,0,0,0,0,0,1,0,0,90/60,230000,0
+1/31/2024 11:16:47,Jasmina ,Female,,Ernakulam,0,0,0,0,0,0,0,0,120/80,155500,1
+1/31/2024 11:17:42,Subhash,Male,,Pathanamthitta,0,1,1,0,1,1,1,0,128/86,145000,1
+1/31/2024 11:18:03,Merisa,Female,,Kollam,1,0,0,1,0,0,1,0,128/75,350000,0
+1/31/2024 11:18:13,Krishnankutty,Male,,Pathanamthitta,1,1,1,1,1,1,1,1,90/60,123000,1
+1/31/2024 11:19:06,Rikshi,Female,,Ernakulam,0,0,0,1,0,0,0,1,120/80,450000,0
+1/31/2024 11:20:10,Amal ,Male,,Ernakulam,1,0,0,1,1,1,1,1,120/80,300000,0
+1/31/2024 11:21:15,Sana,Female,,Kottayam,0,0,0,0,0,0,0,0,120/82,453000,0
+1/31/2024 11:21:23,Abhishek,Male,,Alappuzha,0,1,0,0,1,1,1,1,150/95,320000,1
+1/31/2024 11:22:21,Tessa,Female,,Kottayam,0,0,1,0,0,1,0,0,120/83,350000,0
+1/31/2024 11:24:28,Leya,Female,,Kottayam ,0,0,0,0,0,0,1,1,90/60,123000,1
+1/31/2024 11:24:50,Ligi,Male,,Alappuzha,0,0,1,1,0,0,1,1,120/80,150000,0
+1/31/2024 11:26:36,Kesiya,Female,,Ernakulam,0,0,1,1,0,0,0,0,95/60,123005,1
+1/31/2024 11:50:32,Shiva,Male,,Trivandrum,0,1,1,0,1,1,0,0,130/98,385000,0
+1/31/2024 11:52:05,Vishnu,Male,,Pathanamthitta,1,0,1,1,0,1,1,1,100/75,321000,0
+1/31/2024 11:53:05,Kamal,Male,,Ernakulam,1,1,1,1,0,0,1,1,120/80,150000,1
+1/31/2024 11:53:06,Malu,Female,,Kottayam,1,0,1,0,1,1,1,1,111/73,354000,0
+1/31/2024 11:54:34,Kiran,Male,,Ernakulam,1,1,1,1,0,1,1,0,95/58,150005,1
+1/31/2024 11:54:57,Mahesh,Male,,Kollam,1,0,1,1,0,1,1,1,120/76,432000,0
+1/31/2024 11:56:07,Rithu,Female,,Kollam,1,0,1,1,0,1,1,1,106/71,128000,1
+1/31/2024 11:57:04,Esha,Female,,Kollam,1,0,0,1,1,1,0,1,121/85,357009,0
+1/31/2024 12:07:21,Ronnie,Male,,Pathanamthitta,1,0,1,1,0,1,0,1,112/78,124000,1
+1/31/2024 15:50:14,Ahana,Female,,Kottayam ,1,0,1,1,0,0,0,1,90/60,123900,1
+1/31/2024 12:08:18,Jis,Male,,Ernakulam,1,0,0,1,1,0,1,0,125/75,300000,0
+1/31/2024 12:10:33,Krish,Male,,Idukki,0,1,0,0,1,0,1,0,110/70,106000,1
+1/31/2024 12:11:14,Rahman,Male,,Trivandrum,0,1,1,1,1,0,0,0,130/90,120000,1
+1/31/2024 12:11:31,Sadha,Female,,Kollam,0,0,1,1,0,0,0,0,120/80,123780,1
+1/31/2024 12:11:48,Kuttappan,Male,,Trivandrum,1,0,1,0,1,1,1,0,100/60,200000,1
+1/31/2024 12:12:05,Manju ,Female,,Alappuzha ,1,0,0,1,0,1,0,1,120/80,300000,0
+1/31/2024 12:13:56,Jesna ,Female,,Kollam,1,1,0,0,0,0,0,0,120/80,300000,0
+1/31/2024 12:15:08,Rijosh,Male,,Ernakulam ,1,1,1,1,0,1,1,0,125/85,154500,1
+1/31/2024 12:15:44,Robert,Male,,Ernakulam,0,1,0,0,1,1,0,0,120/75,230000,0
+1/31/2024 12:16:24,Kathy,Female,,Trivandrum ,0,0,0,1,0,0,0,1,120/80,155500,1
+1/31/2024 12:16:31,Luke ,Male,,Alappuzha ,0,0,0,0,0,0,1,1,125/85,200000,0
+1/31/2024 12:18:52,Kavya,Female,,Kollam,1,1,1,1,0,1,1,1,90/60,134550,1
+1/31/2024 12:19:01,Dony,Male,,Alappuzha,0,0,1,0,0,1,1,1,130/70,300000,0
+1/31/2024 12:19:26,Matthew ,Male,,Alappuzha,1,1,1,1,1,1,1,1,90/60,250000,1
+1/31/2024 12:21:44,Kunjumon,Male,,Kottayam,1,0,1,1,0,1,0,1,99/62,118000,1
+1/31/2024 12:21:54,Xavier,Male,,Kollam,0,1,1,1,1,1,0,1,120/60,250000,0
+1/31/2024 12:21:55,Mark,Male,,Kottayam ,1,0,0,1,0,1,0,0,90/60,450000,1
+1/31/2024 12:23:55,Hrithik,Male,,Pathanamthitta,0,1,0,0,0,1,1,0,150/70,150000,1
+1/31/2024 12:26:10,Mohammed,Male,,Alappuzha,0,0,0,0,0,0,1,1,125/90,200000,0
+1/31/2024 12:44:22,Vijay,Male,,Kochi,1,1,1,0,1,1,1,0,130/90,300000,0
+1/31/2024 12:46:48,Dennis,Male,,Trivandrum,1,1,0,0,1,0,1,1,90/60,200000,1
+1/31/2024 12:49:24,Aaron,Male,,Kottayam,1,0,1,1,0,0,0,1,128/84,300000,0
+1/31/2024 12:54:40,Das,Male,,Kollam,0,0,1,1,1,1,1,1,110/75,145000,1
+1/31/2024 13:31:59,P. E Ricky,Male,perickyme0n@gmail.com,Kollam,1,0,1,1,1,1,1,1,90/70,240000,1
+1/31/2024 14:08:00,Sajan NP,Male,,Kottayam ,1,1,1,0,0,1,1,1,126/65,100000,1
+1/31/2024 15:43:25,Kailas,Male,dreamerlucid10@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,126/90,240000,0
+1/31/2024 15:52:24,Saikiran ,Male,,Alappuzha ,0,0,0,0,0,0,0,0,120/80,240000,0
+1/31/2024 15:52:25,Darshana,Female,,Kollam,1,0,1,0,0,1,1,1,90/65,135000,1
+1/31/2024 15:54:19,Arjun ,Male,arjunleo0011@gmail.com,Alappuzha ,0,0,0,0,1,0,0,1,120/85,200000,0
+1/31/2024 16:01:44,Abhimaneu ,Male,abhimaneubenni@gmail.com,Alappuzha ,0,0,0,1,0,0,0,0,118/80,125000,1
+2/1/2024 1:49:13,Nandikesh S,Male,nandikeshsajeev@gmail.com,Alappuzha,1,1,0,1,0,0,0,0,118/62,130000,1
+2/1/2024 8:51:43,Nijohn,Male,,Idukki,1,1,1,1,0,0,0,1,120/60,200000,0
+2/1/2024 8:52:53,Joppen,Male,,Kottayam,0,0,0,0,0,0,0,0,100/99,200000,0
+2/1/2024 15:16:16,Bhavana,Female,,Ernakulam,1,0,1,0,1,1,1,1,95/60,145000,1
+2/1/2024 16:01:40,Sandra,Female,,Kottayam,0,0,0,1,0,0,0,0,125/80,335890,0
+2/1/2024 16:02:54,Savio,Male,,Kottayam,1,1,0,1,0,1,1,0,100/70,145990,1
+2/7/2024 9:10:15,Neha,Female,nehaannsamson@gmail.com,Pathanamthitta ,1,1,1,1,1,0,1,0,100/70,120000,1
+1/29/2024 12:14:51,Roshni,Female,rrherox007@gmail.com,Pathanamthitta,1,1,1,1,0,1,1,1,120/85,450000,0
+1/29/2024 13:40:14,Prayag,Male,prxyag99@gmail.com,Kollam,1,0,1,1,1,1,1,1,145/90,650000,0
+1/29/2024 14:17:13,Navin,Male,navinshibu12@gmail.com,Kollam,1,1,1,1,1,1,1,1,95/64,115000,1
+1/29/2024 14:20:44,Nitha,Female,navinshibu12@gmail.com,Kollam,1,0,1,0,1,0,1,0,155/98,125000,1
+1/29/2024 14:20:26,Navin,Male,navinshibu12@gmail.com,Kollam,0,1,0,1,0,1,0,1,125/88,255000,0
+1/29/2024 14:23:24,Shibu,Male,navinshibu12@gmail.com,Kollam,1,0,1,0,0,1,1,1,99/76,98000,1
+1/29/2024 14:24:52,Jaice,Female,navinshibu12@gmail.com,Kollam,0,1,0,1,0,1,1,0,122/89,380000,0
+1/29/2024 14:28:06,Roshan,Male,rrherox007@gmail.com,Pathanamthitta,0,1,1,0,1,1,1,0,89/66,130000,1
+1/29/2024 14:30:30,Roy,Male,rrherox007@gmail.com,Pathanamthitta,1,1,1,1,1,1,1,1,88/56,233000,1
+1/29/2024 14:31:42,Siji,Female,rrherox007@gmail.com,Pathanamthitta,0,0,1,1,1,1,0,1,122/82,261000,1
+1/29/2024 14:34:02,Rayson,Male,rrherox007@gmail.com,Pathanamthitta,1,1,1,0,0,0,0,1,79/55,315000,0
+1/31/2024 9:02:02,Riza,Female,riyamercethomasrmt@gmail.com,Kottayam,1,0,1,1,0,1,0,1,120/80,335000,0
+1/29/2024 14:38:57,Varghese,Male,rrherox007@gmail.com,Pathanamthitta,0,1,0,1,1,1,0,0,122/84,109000,1
+1/29/2024 14:42:13,Mercy,Female,riyamercethomasrmt@gmail.com,Kottayam,0,1,1,1,1,0,0,1,130/90,150000,0
+1/29/2024 14:42:48, Mercy,Female,rrherox007@gmail.com,Pathanamthitta,1,1,1,0,0,0,0,0,120/80,374000,0
+1/29/2024 14:50:46,Thomas,Male,riyamercethomasrmt@gmail.com,Kottayam,1,1,1,1,1,1,0,1,125/85,130000,0
+1/29/2024 14:53:07,George,Male,rrherox007@gmail.com,Pathanamthitta,1,1,0,1,0,1,1,1,125/80,123000,1
+1/29/2024 14:58:10,Aby,Male,,Alappuzha,1,0,1,0,0,1,1,0,82/58,102000,1
+1/29/2024 14:58:51,Karthik,Male,,Alappuzha,0,0,0,0,0,0,0,0,100/70,321000,0
+1/29/2024 14:59:50,Suresh,Male,,Alappuzha,1,1,1,1,1,1,0,1,125/86,234000,0
+1/29/2024 15:01:08,Vidhya,Female,,Alappuzha,1,0,1,1,0,1,1,1,111/66,120000,1
+1/29/2024 15:02:22,Sini,Female,riyamercethomasrmt@gmail.com,Kottayam,1,1,1,1,1,1,0,1,125/80,450000,0
+1/29/2024 15:02:25,Vignesh,Male,,Alappuzha,0,1,0,1,0,1,0,0,93/69,108000,1
+1/29/2024 15:03:49,Rohan,Male,,Ernakulam,0,0,1,1,0,0,1,1,129/92,402000,0
+1/29/2024 15:03:57,Beroy,Male,riyamercethomas@gmail.com,Kottayam,0,0,1,1,0,0,0,1,120/80,225500,0
+1/29/2024 15:08:04,Akhil,Male,,Ernakulam,1,0,1,1,0,0,0,1,130/90,520000,0
+1/29/2024 15:14:22,Richa,Female,riyamercethomas@gmail.com,Kottayam,0,1,1,0,0,1,0,1,100/70,123005,1
+1/29/2024 15:19:33,Sara,Female,riyamercethomas@gmail.com,Kottayam,1,1,1,1,0,1,0,0,150/95,350000,0
+1/29/2024 15:21:36,Mary,Female,riyamercethomas@gmail.com,Kottayam,0,0,1,1,1,1,0,1,130/85,145005,0
+1/29/2024 15:23:40,Joseph,Male,rriyamercethoma@gmail.com,Kottayam,1,0,1,1,1,1,1,1,150/90,455500,0
+1/29/2024 15:25:31,Christeena,Female,christy@gmail.com,Kottayam,1,1,1,1,0,1,0,1,98/65,175000,1
+1/29/2024 15:30:23,Raju,Male,rajj@gmail.com,Kottayam,0,1,1,1,1,1,1,0,125/85,335500,0
+1/29/2024 15:32:34,Neenu,Female,neenumaria@gmail.com,Kottayam,1,0,1,1,0,1,1,1,135/86,140500,1
+1/29/2024 15:34:36,Meenu,Female,meenu@gmail.com,Kottayam,0,1,1,1,0,1,1,0,100/75,135990,1
+1/29/2024 15:46:53,Joyal,Male,joyall@gmail.com,Kottayam,1,0,1,1,0,0,0,1,125/80,250000,0
+1/29/2024 15:50:23,Christo,Male,christo@gmail.com,Kottayam,1,0,1,1,0,1,0,1,121/81,133997,1
+1/29/2024 15:59:25,Leo,Male,,Kottayam ,1,1,1,1,1,0,0,1,110/80,250000,0
+1/30/2024 15:39:55,Geetha,Female,geetha@gmail.com,Kottayam,0,0,1,0,0,0,0,0,120/80,345500,0
+1/31/2024 9:02:10,Mariyam ,Female,emammariyam@gmail.com,Trivandrum,1,0,1,1,0,0,0,1,120/80,500000,0
+1/31/2024 9:02:27,Sreelakshmi A ,Female,sreelakshmianish20@gmail.com,Kottayam ,0,0,0,1,0,0,0,0,120/80,175000,0
+1/31/2024 9:02:27,Ranvijay,Male,,Idukki,1,0,1,0,1,0,0,1,96/55,120000,0
+1/31/2024 9:03:31,Karthikeyan,Male,karthikskumar2@gmail.com,Alappuzha,1,0,1,1,0,1,1,0,125/80,140540,0
+1/31/2024 9:03:53,Arjun ,Male,arjunjayan76@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,150/95,500000,0
+1/31/2024 9:03:58,Asna,Female,,Trivandrum,1,0,1,1,0,1,1,1,100/70,130000,1
+1/31/2024 9:04:20,Riyaz,Male,,Idukki,1,1,0,0,1,1,0,0,80/50,234000,1
+1/31/2024 9:05:55,Salman,Male,,Trivandrum,1,0,1,1,0,1,0,1,90/60,330000,0
+1/31/2024 9:06:37,Lakshmi ,Female,,Kottayam,1,0,1,1,1,0,1,0,100/75,200000,0
+1/31/2024 9:06:47,Karthik S,Male,karthiksabhal2001@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,125/85                                                 ,400000,0
+1/31/2024 9:07:18,Rahul,Male,,Kollam,0,1,1,1,0,0,0,1,120/80,205000,0
+1/31/2024 9:14:16,Elias ,Male,eliastkurian@gmail.com,Kottayam ,0,0,0,0,0,0,0,0,125/85,350000,0
+1/31/2024 9:17:30,Kevin ,Male,,Kottayam ,0,0,0,0,0,0,0,0,100/70                                              ,360987,0
+1/31/2024 9:28:26,Vaisakhkrishnan ,Male,kvaisakhkrishnan@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,130/90,300000,0
+1/31/2024 9:49:19,Ebeal ,Male,ebealjb000@gmail.com,Idukki ,0,0,0,0,0,0,0,0,120/80,354500,0
+1/31/2024 9:59:34,Ashiq,Male,,Ernakulam,1,1,1,1,0,0,0,1,134/85,130000,1
+1/31/2024 10:00:36,Sushmitha,Female,,Pathanamthitta,1,1,0,1,0,1,1,1,149/93,267000,0
+1/31/2024 10:04:44,Athira,Female,,Ernakulam,1,0,1,1,0,1,0,0,120/80,200000,0
+1/31/2024 10:06:33,Bru0,Male,,Kottayam,1,0,1,0,1,0,1,1,109/69,355000,0
+1/31/2024 10:07:23,Manas,Male,,Pathanamthitta,0,0,0,0,0,1,0,1,90/60,145000,1
+1/31/2024 10:09:12,Akhil,Male,,Kollam,0,1,0,1,1,1,0,1,130/90,190000,0
+1/31/2024 10:10:12,Rima,Female,,Kottayam,1,0,1,1,0,0,1,0,114/73,124000,0
+1/31/2024 10:10:35,Rema,Female,,Kottayam,1,0,0,1,1,1,1,1,125/86,350000,0
+1/31/2024 10:11:16,Abraham,Male,,Alappuzha,0,0,0,0,0,0,0,0,125/75,200000,0
+1/31/2024 10:12:33,Stormi,Female,,Pathanamthitta,1,0,1,1,0,0,0,0,125/84,325000,0
+1/31/2024 10:12:57,Reema,Female,,Ernakulam,1,0,1,1,0,1,1,1,128/85,223005,0
+1/31/2024 10:14:31,Govind,Male,,Ernakulam,1,0,1,0,0,0,1,0,130/85,300000,0
+1/31/2024 10:15:20,Tessa,Female,,Kollam ,1,1,1,1,0,1,0,0,130/87,145000,1
+1/31/2024 10:15:23,Krishnakumar,Male,,Kollam,1,1,0,1,1,0,0,0,120/77,372000,0
+1/31/2024 10:15:35,Joby,Male,,Kottayam,1,0,1,1,0,0,0,0,125/75,195000,0
+1/31/2024 10:16:35,Ganeshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,128/87,350000,0
+1/31/2024 10:17:36,Sita,Female,,Kottayam ,0,0,0,1,0,0,0,0,120/80,445000,0
+1/31/2024 10:17:39,Sureshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,122/88,317000,0
+1/31/2024 10:18:34,Hymavathiamma,Female,,Alappuzha,0,1,0,1,0,0,1,1,135/75,150000,0
+1/31/2024 10:19:00,Karthika,Female,,Kottayam,0,0,0,0,0,0,0,0,124/84,235000,0
+1/31/2024 10:20:27,Ramanan,Male,,Kottayam,0,0,0,1,0,1,0,1,120/80,354000,0
+1/31/2024 10:20:38,Rameshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,126/87,179000,0
+1/31/2024 10:21:09,Rahul,Male,,Alappuzha,0,0,0,0,0,0,0,0,120/85,160000,0
+1/31/2024 10:22:51,Fahad,Male,,Ernakulam,0,1,0,0,1,1,0,0,120/85,250000,0
+1/31/2024 10:23:01,Niggeshkumar,Male,,Kollam,0,0,0,0,0,0,0,1,132/89,344000,0
+1/31/2024 10:23:08,Akshay ,Male,akshaymurali002@gmail.com,Kollam,1,1,1,1,0,0,0,0,115/85,350000,0
+1/31/2024 10:23:42,Ajay,Male,,Ernakulam,0,0,0,1,0,0,0,0,127/85,415000,0
+1/31/2024 10:25:56,Kumari,Female,,Ernakulam,1,1,1,0,1,1,1,0,135/90,460000,1
+1/31/2024 10:27:46,Meera,Female,,Kottayam ,0,0,1,0,0,0,0,0,125/80,234500,0
+1/31/2024 10:27:54,Sukumar,Male,,Kollam,1,0,1,1,0,1,0,1,109/70,128000,1
+1/31/2024 10:30:28,Aswin,Male,aswinsanthosh1983@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,100/70,450000,0
+1/31/2024 10:32:35,Vikaskumar,Male,,Ernakulam,1,0,1,0,1,1,1,1,140/95,111000,1
+1/31/2024 10:32:49,Sukathakumari,Female,,Ernakulam,0,0,1,1,0,0,0,0,130/85,235000,0
+1/31/2024 10:33:57,Nazim,Female,,Ernakulam,1,0,0,0,0,1,0,0,120/80,150000,1
+1/31/2024 10:35:11,Afra,Female,,Kollam,0,0,0,0,0,1,0,0,125/70,200000,1
+1/31/2024 10:35:18,Geetanjali,Female,,Kollam,0,1,1,0,1,1,0,0,121/81,350000,0
+1/31/2024 10:35:34,Seema,Female,,Ernakulam,1,1,1,1,0,1,0,1,90/60,123000,1
+1/31/2024 10:37:55,Haroon,Male,,Alappuzha,0,1,1,1,1,0,0,1,120/80,250000,0
+1/31/2024 10:38:19,Anjana,Female,,Kollam,0,0,0,1,1,1,0,0,130/80,230000,0
+1/31/2024 10:39:26,Loki,Male,,Alappuzha,1,1,1,1,1,1,1,1,137/92,375000,0
+1/31/2024 11:13:40,Soman,Male,,Ernakulam,1,0,1,0,1,0,0,0,115/69,120000,1
+1/31/2024 11:13:59,Sanjana,Female,,Ernakulam,1,0,1,1,0,0,0,0,90/65,123576,1
+1/31/2024 11:16:43,Shyam ,Male,,Alappuzha,0,0,0,0,0,1,0,0,90/60,230000,0
+1/31/2024 11:16:47,Jasmina ,Female,,Ernakulam,0,0,0,0,0,0,0,0,120/80,155500,1
+1/31/2024 11:17:42,Subhash,Male,,Pathanamthitta,0,1,1,0,1,1,1,0,128/86,145000,1
+1/31/2024 11:18:03,Merisa,Female,,Kollam,1,0,0,1,0,0,1,0,128/75,350000,0
+1/31/2024 11:18:13,Krishnankutty,Male,,Pathanamthitta,1,1,1,1,1,1,1,1,90/60,123000,1
+1/31/2024 11:19:06,Rikshi,Female,,Ernakulam,0,0,0,1,0,0,0,1,120/80,450000,0
+1/31/2024 11:20:10,Amal ,Male,,Ernakulam,1,0,0,1,1,1,1,1,120/80,300000,0
+1/31/2024 11:21:15,Sana,Female,,Kottayam,0,0,0,0,0,0,0,0,120/82,453000,0
+1/31/2024 11:21:23,Abhishek,Male,,Alappuzha,0,1,0,0,1,1,1,1,150/95,320000,1
+1/31/2024 11:22:21,Tessa,Female,,Kottayam,0,0,1,0,0,1,0,0,120/83,350000,0
+1/31/2024 11:24:28,Leya,Female,,Kottayam ,0,0,0,0,0,0,1,1,90/60,123000,1
+1/31/2024 11:24:50,Ligi,Male,,Alappuzha,0,0,1,1,0,0,1,1,120/80,150000,0
+1/31/2024 11:26:36,Kesiya,Female,,Ernakulam,0,0,1,1,0,0,0,0,95/60,123005,1
+1/31/2024 11:50:32,Shiva,Male,,Trivandrum,0,1,1,0,1,1,0,0,130/98,385000,0
+1/31/2024 11:52:05,Vishnu,Male,,Pathanamthitta,1,0,1,1,0,1,1,1,100/75,321000,0
+1/31/2024 11:53:05,Kamal,Male,,Ernakulam,1,1,1,1,0,0,1,1,120/80,150000,1
+1/31/2024 11:53:06,Malu,Female,,Kottayam,1,0,1,0,1,1,1,1,111/73,354000,0
+1/31/2024 11:54:34,Kiran,Male,,Ernakulam,1,1,1,1,0,1,1,0,95/58,150005,1
+1/31/2024 11:54:57,Mahesh,Male,,Kollam,1,0,1,1,0,1,1,1,120/76,432000,0
+1/31/2024 11:56:07,Rithu,Female,,Kollam,1,0,1,1,0,1,1,1,106/71,128000,1
+1/31/2024 11:57:04,Esha,Female,,Kollam,1,0,0,1,1,1,0,1,121/85,357009,0
+1/31/2024 12:07:21,Ronnie,Male,,Pathanamthitta,1,0,1,1,0,1,0,1,112/78,124000,1
+1/31/2024 15:50:14,Ahana,Female,,Kottayam ,1,0,1,1,0,0,0,1,90/60,123900,1
+1/31/2024 12:08:18,Jis,Male,,Ernakulam,1,0,0,1,1,0,1,0,125/75,300000,0
+1/31/2024 12:10:33,Krish,Male,,Idukki,0,1,0,0,1,0,1,0,110/70,106000,1
+1/31/2024 12:11:14,Rahman,Male,,Trivandrum,0,1,1,1,1,0,0,0,130/90,120000,1
+1/31/2024 12:11:31,Sadha,Female,,Kollam,0,0,1,1,0,0,0,0,120/80,123780,1
+1/31/2024 12:11:48,Kuttappan,Male,,Trivandrum,1,0,1,0,1,1,1,0,100/60,200000,1
+1/31/2024 12:12:05,Manju ,Female,,Alappuzha ,1,0,0,1,0,1,0,1,120/80,300000,0
+1/31/2024 12:13:56,Jesna ,Female,,Kollam,1,1,0,0,0,0,0,0,120/80,300000,0
+1/31/2024 12:15:08,Rijosh,Male,,Ernakulam ,1,1,1,1,0,1,1,0,125/85,154500,1
+1/31/2024 12:15:44,Robert,Male,,Ernakulam,0,1,0,0,1,1,0,0,120/75,230000,0
+1/31/2024 12:16:24,Kathy,Female,,Trivandrum ,0,0,0,1,0,0,0,1,120/80,155500,1
+1/31/2024 12:16:31,Luke ,Male,,Alappuzha ,0,0,0,0,0,0,1,1,125/85,200000,0
+1/31/2024 12:18:52,Kavya,Female,,Kollam,1,1,1,1,0,1,1,1,90/60,134550,1
+1/31/2024 12:19:01,Dony,Male,,Alappuzha,0,0,1,0,0,1,1,1,130/70,300000,0
+1/31/2024 12:19:26,Matthew ,Male,,Alappuzha,1,1,1,1,1,1,1,1,90/60,250000,1
+1/31/2024 12:21:44,Kunjumon,Male,,Kottayam,1,0,1,1,0,1,0,1,99/62,118000,1
+1/31/2024 12:21:54,Xavier,Male,,Kollam,0,1,1,1,1,1,0,1,120/60,250000,0
+1/31/2024 12:21:55,Mark,Male,,Kottayam ,1,0,0,1,0,1,0,0,90/60,450000,1
+1/31/2024 12:23:55,Hrithik,Male,,Pathanamthitta,0,1,0,0,0,1,1,0,150/70,150000,1
+1/31/2024 12:26:10,Mohammed,Male,,Alappuzha,0,0,0,0,0,0,1,1,125/90,200000,0
+1/31/2024 12:44:22,Vijay,Male,,Kochi,1,1,1,0,1,1,1,0,130/90,300000,0
+1/31/2024 12:46:48,Dennis,Male,,Trivandrum,1,1,0,0,1,0,1,1,90/60,240000,1
+1/31/2024 12:49:24,Aaron,Male,,Kottayam,1,0,1,1,0,0,0,1,128/84,300000,0
+1/31/2024 12:54:40,Das,Male,,Kollam,0,0,1,1,1,1,1,1,125/80,150000,1
+1/31/2024 13:31:59,Ricky,Male,perickyme0n@gmail.com,Kozhikode,1,0,1,1,1,1,1,1,90/70,240000,1
+1/31/2024 14:08:00,Sajanth,Male,,Kottayam ,1,1,1,0,0,0,1,1,126/33,200000,1
+1/31/2024 15:43:25,Kailas,Male,dreamerlucid10@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,126/90,240000,0
+1/31/2024 15:52:24,Saikiran ,Male,,Alappuzha ,0,0,0,0,0,0,0,0,120/80,250000,0
+1/31/2024 15:52:25,Darshana,Female,,Kollam,1,0,1,0,0,1,1,1,90/65,135000,1
+1/31/2024 15:54:19,Arjun ,Male,arjunleo0011@gmail.com,Alappuzha ,0,0,0,0,1,0,0,1,120/85,200000,0
+1/31/2024 16:01:44,Abhimaneu ,Male,abhimaneubenni@gmail.com,Alappuzha ,0,0,0,1,0,0,0,0,118/80,240000,1
+2/1/2024 1:49:13,Nandikesh S,Male,nandikeshsajeev@gmail.com,Alappuzha,1,1,0,1,0,0,0,0,118/62,500000,1
+2/1/2024 8:51:43,Nijohn,Male,,Idukki,1,0,1,1,0,0,0,1,120/60,200000,0
+2/1/2024 8:52:53,Joppen,Male,,Kottayam,0,0,0,0,0,0,0,0,100/99,200000,0
+2/1/2024 15:16:16,Bhavana,Female,,Ernakulam,1,0,1,0,1,1,1,1,95/60,145000,1
+2/1/2024 16:01:40,Sandra,Female,,Kottayam,0,0,0,1,0,0,0,0,125/80,335890,0
+2/1/2024 16:02:54,Savio,Male,,Kottayam,1,1,0,1,0,1,1,0,100/70,145990,1
+1/29/2024 12:14:51,Rosh,Male,rrherox007@gmail.com,Pathanamthitta,1,0,1,1,0,1,0,1,120/85,450000,1
+1/29/2024 13:40:14,Prayag,Male,prxyag99@gmail.com,Kollam,1,0,1,1,1,1,1,1,145/90,650000,0
+1/29/2024 14:17:13,Navin,Male,navinshibu12@gmail.com,Kollam,1,1,1,1,1,1,1,1,95/64,115000,0
+1/29/2024 14:20:44,Nitha,Female,navinshibu12@gmail.com,Kollam,1,0,1,0,1,0,1,0,155/98,125000,1
+1/29/2024 14:20:26,Navin,Male,navinshibu12@gmail.com,Kollam,0,1,0,1,0,1,0,1,125/88,255000,1
+1/29/2024 14:23:24,Shibu,Male,navinshibu12@gmail.com,Kollam,1,0,1,0,0,1,1,1,99/76,98000,0
+1/29/2024 14:24:52,Jaice,Female,navinshibu12@gmail.com,Kollam,0,1,0,1,0,1,1,0,122/89,380000,1
+1/29/2024 14:28:06,Roshan,Male,rrherox007@gmail.com,Pathanamthitta,0,1,1,0,1,1,1,0,89/66,130000,0
+1/29/2024 14:30:30,Roy,Male,rrherox007@gmail.com,Pathanamthitta,1,1,1,1,1,1,1,1,88/56,233000,1
+1/29/2024 14:31:42,Siji,Female,rrherox007@gmail.com,Pathanamthitta,0,0,1,1,1,1,0,1,122/82,261000,1
+1/29/2024 14:34:02,Rayson,Male,rrherox007@gmail.com,Pathanamthitta,1,1,1,0,0,0,0,1,79/55,315000,1
+1/31/2024 9:02:02,Riza,Female,riyamercethomasrmt@gmail.com,Kottayam,1,0,1,1,0,1,0,1,120/80,335000,0
+1/29/2024 14:38:57,Varghese,Male,rrherox007@gmail.com,Pathanamthitta,1,1,1,1,0,0,0,0,135/98,109000,0
+1/29/2024 14:42:13,Mercy,Female,riyamercethomasrmt@gmail.com,Kottayam,0,1,1,1,1,0,1,1,130/90,150000,1
+1/29/2024 14:42:48,Merci,Female,rrherox007@gmail.com,Pathanamthitta,1,0,1,1,0,1,0,1,110/70,144000,0
+1/29/2024 14:50:46,Thomas,Male,riyamercethomasrmt@gmail.com,Kottayam,1,1,1,1,1,1,0,1,125/85,130000,0
+1/29/2024 14:53:07,George,Male,rrherox007@gmail.com,Pathanamthitta,1,1,0,1,0,1,1,1,125/80,123000,0
+1/29/2024 14:58:10,Aby,Male,,Alappuzha,1,0,1,0,0,1,1,0,82/58,102000,1
+1/29/2024 14:58:51,Karthik,Male,,Alappuzha,0,0,0,0,0,0,0,0,100/70,321000,1
+1/29/2024 14:59:50,Suresh,Male,,Alappuzha,1,1,1,1,1,1,0,1,125/86,234000,0
+1/29/2024 15:01:08,Vidhya,Female,,Alappuzha,1,1,1,1,1,1,1,1,111/66,120000,0
+1/29/2024 15:02:22,Sini,Female,riyamercethomasrmt@gmail.com,Kottayam,1,1,1,1,1,1,0,1,125/80,450000,1
+1/29/2024 15:02:25,Vignesh,Male,,Alappuzha,0,1,0,1,0,1,0,0,83/49,508000,0
+1/29/2024 15:03:49,Rohan,Male,,Ernakulam,0,0,1,1,0,0,1,1,129/92,402000,0
+1/29/2024 15:03:57,Beroy,Male,riyamercethomas@gmail.com,Kottayam,0,0,1,1,0,0,0,1,120/80,225500,0
+1/29/2024 15:08:04,Akhil,Male,,Ernakulam,1,0,1,1,0,0,0,1,130/90,520000,0
+1/29/2024 15:14:22,Richa,Female,riyamercethomas@gmail.com,Kottayam,0,1,1,0,0,1,0,1,100/70,123005,0
+1/29/2024 15:19:33,Sara,Female,riyamercethomas@gmail.com,Kottayam,1,1,1,1,0,1,0,0,150/95,350000,1
+1/29/2024 15:21:36,Mary,Female,riyamercethomas@gmail.com,Kottayam,0,0,1,1,1,1,0,1,130/85,145005,0
+1/29/2024 15:23:40,Joseph,Male,rriyamercethoma@gmail.com,Kottayam,1,0,1,1,1,1,1,1,150/90,455500,0
+1/29/2024 15:25:31,Christeena,Female,christy@gmail.com,Kottayam,1,1,1,1,0,1,0,1,98/65,175000,0
+1/29/2024 15:30:23,Raju,Male,rajj@gmail.com,Kottayam,0,1,1,1,1,1,1,0,125/85,335500,1
+1/29/2024 15:32:34,Neenu,Female,neenumaria@gmail.com,Kottayam,1,0,1,1,0,1,1,1,135/86,140500,0
+1/29/2024 15:34:36,Meenu,Female,meenu@gmail.com,Kottayam,1,1,1,1,1,1,0,0,110/75,135990,1
+1/29/2024 15:46:53,Joyal,Male,joyall@gmail.com,Kottayam,1,0,1,1,0,0,0,1,125/80,250000,1
+1/29/2024 15:50:23,Christo,Male,christo@gmail.com,Kottayam,1,0,1,1,0,1,0,1,121/81,133997,0
+1/29/2024 15:59:25,Leo,Male,,Kottayam ,1,1,1,1,1,0,0,1,110/80,250000,1
+1/30/2024 15:39:55,Geetha,Female,geetha@gmail.com,Kottayam,0,0,1,0,0,0,0,0,120/80,345500,0
+1/31/2024 9:02:10,Mariyam ,Female,emammariyam@gmail.com,Trivandrum,1,0,1,1,0,0,0,1,120/80,500000,0
+1/31/2024 9:02:27,Sreelakshmi A ,Female,sreelakshmianish20@gmail.com,Kottayam ,0,0,0,1,0,0,0,0,120/80,175000,0
+1/31/2024 9:02:27,Ranvijay,Male,,Idukki,1,0,1,0,1,0,0,1,96/55,120000,0
+1/31/2024 9:03:31,Karthik ,Male,karthikskumar2@gmail.com,Alappuzha,0,0,1,1,0,0,0,1,125/85,150000,0
+1/31/2024 9:03:53,Arjun ,Male,arjunjayan76@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,150/95,500000,0
+1/31/2024 9:03:58,Aafia,Female,,Trivandrum,1,1,1,0,1,1,0,1,90/60,100000,0
+1/31/2024 9:04:20,Riyaz,Male,,Idukki,1,1,0,0,1,1,0,0,80/50,234000,1
+1/31/2024 9:05:55,Salman,Male,,Trivandrum,1,0,1,1,0,1,0,1,90/60,330000,1
+1/31/2024 9:06:37,Lakshmi ,Female,,Kottayam,1,0,1,1,1,0,1,0,100/75,200000,0
+1/31/2024 9:06:47,Karthik S,Male,karthiksabhal2001@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,125/85                                                 ,400000,0
+1/31/2024 9:07:18,Rahul,Male,,Kollam,0,1,1,1,0,0,0,1,120/80,205000,0
+1/31/2024 9:14:16,Elias ,Male,eliastkurian@gmail.com,Kottayam ,0,0,0,0,0,0,0,0,125/85,350000,0
+1/31/2024 9:17:30,Kevin ,Male,,Kottayam ,0,0,0,0,0,0,0,0,100/70                                              ,360987,0
+1/31/2024 9:28:26,Vaisakhkrishnan ,Male,kvaisakhkrishnan@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,130/90,300000,0
+1/31/2024 9:49:19,Ebeal ,Male,ebealjb000@gmail.com,Idukki ,0,0,0,0,0,0,0,0,120/80,354500,0
+1/31/2024 9:59:34,Ashiq,Male,,Ernakulam,1,1,1,1,0,0,0,1,134/85,130000,0
+1/31/2024 10:00:36,Sushmitha,Female,,Pathanamthitta,1,1,0,1,0,1,1,1,149/93,267000,1
+1/31/2024 10:04:44,Athira,Female,,Ernakulam,1,0,1,1,0,1,0,0,120/80,200000,0
+1/31/2024 10:06:33,Bru0,Male,,Kottayam,1,0,1,0,1,0,1,1,109/69,355000,0
+1/31/2024 10:07:23,Manas,Male,,Pathanamthitta,0,0,0,0,0,1,0,1,90/60,145000,0
+1/31/2024 10:09:12,Akhil,Male,,Kollam,0,1,0,1,1,1,0,1,130/90,190000,1
+1/31/2024 10:10:12,Rima,Female,,Kottayam,1,0,1,1,0,0,1,0,114/73,124000,0
+1/31/2024 10:10:35,Rema,Female,,Kottayam,1,0,0,1,1,1,1,1,125/86,350000,0
+1/31/2024 10:11:16,Abraham,Male,,Alappuzha,0,0,0,0,0,0,0,0,125/75,200000,0
+1/31/2024 10:12:33,Stormi,Female,,Pathanamthitta,1,0,1,1,0,0,0,0,125/84,325000,0
+1/31/2024 10:12:57,Reema,Female,,Ernakulam,1,0,1,1,0,1,1,1,128/85,223005,0
+1/31/2024 10:14:31,Govind,Male,,Ernakulam,1,0,1,0,0,0,1,0,130/85,300000,0
+1/31/2024 10:15:20,Tessa,Female,,Kollam ,1,1,1,1,0,1,0,0,130/87,145000,0
+1/31/2024 10:15:23,Krishnakumar,Male,,Kollam,1,1,0,1,1,0,0,0,120/77,372000,1
+1/31/2024 10:15:35,Joby,Male,,Kottayam,1,0,1,1,0,0,0,0,125/75,195000,0
+1/31/2024 10:16:35,Ganeshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,128/87,350000,0
+1/31/2024 10:17:36,Sita,Female,,Kottayam ,0,0,0,1,0,0,0,0,120/80,445000,0
+1/31/2024 10:17:39,Sureshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,122/88,317000,0
+1/31/2024 10:18:34,Hymavathiamma,Female,,Alappuzha,0,1,0,1,0,0,1,1,135/75,150000,0
+1/31/2024 10:19:00,Karthika,Female,,Kottayam,0,0,0,0,0,0,0,0,124/84,235000,0
+1/31/2024 10:20:27,Ramanan,Male,,Kottayam,0,0,0,1,0,1,0,1,120/80,354000,0
+1/31/2024 10:20:38,Rameshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,126/87,179000,0
+1/31/2024 10:21:09,Rahul,Male,,Alappuzha,0,0,0,0,0,0,0,0,120/85,160000,0
+1/31/2024 10:22:51,Fahad,Male,,Ernakulam,0,1,0,0,1,1,0,0,120/85,250000,0
+1/31/2024 10:23:01,Niggeshkumar,Male,,Kollam,0,0,0,0,0,0,0,1,132/89,344000,0
+1/31/2024 10:23:08,Akshay ,Male,akshaymurali002@gmail.com,Kollam,1,1,1,1,0,0,0,0,115/85,350000,0
+1/31/2024 10:23:42,Ajay,Male,,Ernakulam,0,0,0,1,0,0,0,0,127/85,415000,0
+1/31/2024 10:25:56,Kumari,Female,,Ernakulam,1,1,1,0,1,1,1,0,135/90,460000,0
+1/31/2024 10:27:46,Meera,Female,,Kottayam ,0,0,1,0,0,0,0,0,125/80,234500,1
+1/31/2024 10:27:54,Sukumar,Male,,Kollam,1,0,1,1,0,1,0,1,109/70,128000,0
+1/31/2024 10:30:28,Aswin,Male,aswinsanthosh1983@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,100/70,450000,1
+1/31/2024 10:32:35,Vikaskumar,Male,,Ernakulam,1,0,1,0,1,1,1,1,140/95,111000,0
+1/31/2024 10:32:49,Sukathakumari,Female,,Ernakulam,0,0,1,1,0,0,0,0,130/85,235000,1
+1/31/2024 10:33:57,Nazim,Female,,Ernakulam,1,0,0,0,0,1,0,0,120/80,150000,0
+1/31/2024 10:35:11,Afra,Female,,Kollam,0,0,0,0,0,1,0,0,125/70,200000,1
+1/31/2024 10:35:18,Geetanjali,Female,,Kollam,0,1,1,0,1,1,0,0,121/81,350000,1
+1/31/2024 10:35:34,Seema,Female,,Ernakulam,1,1,1,1,0,1,0,1,90/60,123000,0
+1/31/2024 10:37:55,Haroon,Male,,Alappuzha,0,1,1,1,1,0,0,1,120/80,250000,1
+1/31/2024 10:38:19,Anjana,Female,,Kollam,0,0,0,1,1,1,0,0,130/80,230000,0
+1/31/2024 10:39:26,Loki,Male,,Alappuzha,1,1,1,1,1,1,1,1,137/92,375000,0
+1/31/2024 11:13:40,Soman,Male,,Ernakulam,1,0,1,0,1,0,0,0,115/69,120000,0
+1/31/2024 11:13:59,Sanjana,Female,,Ernakulam,1,0,1,1,0,0,0,0,90/65,123576,1
+1/31/2024 11:16:43,Shyam ,Male,,Alappuzha,0,0,0,0,0,1,0,0,90/60,230000,1
+1/31/2024 11:16:47,Jasmina ,Female,,Ernakulam,0,0,0,0,0,0,0,0,120/80,155500,0
+1/31/2024 11:17:42,Subhash,Male,,Pathanamthitta,0,1,1,0,1,1,1,0,128/86,145000,1
+1/31/2024 11:18:03,Merisa,Female,,Kollam,1,0,0,1,0,0,1,0,128/75,350000,1
+1/31/2024 11:18:13,Krishnankutty,Male,,Pathanamthitta,1,1,1,1,1,1,1,1,90/60,123000,0
+1/31/2024 11:19:06,Rikshi,Female,,Ernakulam,0,0,0,1,0,0,0,1,120/80,450000,1
+1/31/2024 11:20:10,Amal ,Male,,Ernakulam,1,0,0,1,1,1,1,1,120/80,300000,0
+1/31/2024 11:21:15,Sana,Female,,Kottayam,0,0,0,0,0,0,0,0,120/82,453000,0
+1/31/2024 11:21:23,Abhishek,Male,,Alappuzha,0,1,0,0,1,1,1,1,150/95,320000,0
+1/31/2024 11:22:21,Tessa,Female,,Kottayam,0,0,1,0,0,1,0,0,120/83,350000,1
+1/31/2024 11:24:28,Leya,Female,,Kottayam ,0,0,0,0,0,0,1,1,90/60,123000,0
+1/31/2024 11:24:50,Ligi,Male,,Alappuzha,0,0,1,1,0,0,1,1,120/80,150000,1
+1/31/2024 11:26:36,Kesiya,Female,,Ernakulam,0,0,1,1,0,0,0,0,95/60,123005,0
+1/31/2024 11:50:32,Shiva,Male,,Trivandrum,0,1,1,0,1,1,0,0,130/98,385000,1
+1/31/2024 11:52:05,Vishnu,Male,,Pathanamthitta,1,0,1,1,0,1,1,1,100/75,321000,0
+1/31/2024 11:53:05,Kamal,Male,,Ernakulam,1,1,1,1,0,0,1,1,120/80,150000,0
+1/31/2024 11:53:06,Malu,Female,,Kottayam,1,0,1,0,1,1,1,1,111/73,354000,1
+1/31/2024 11:54:34,Kiran,Male,,Ernakulam,1,1,1,1,0,1,1,0,95/58,150005,0
+1/31/2024 11:54:57,Mahesh,Male,,Kollam,1,0,1,1,0,1,1,1,120/76,432000,1
+1/31/2024 11:56:07,Rithu,Female,,Kollam,1,0,1,1,0,1,1,1,106/71,128000,0
+1/31/2024 11:57:04,Esha,Female,,Kollam,1,0,0,1,1,1,0,1,121/85,357009,1
+1/31/2024 12:07:21,Ronnie,Male,,Pathanamthitta,1,0,1,1,0,1,0,1,112/78,124000,0
+1/31/2024 15:50:14,Ahana,Female,,Kottayam ,1,0,1,1,0,0,0,1,90/60,123900,1
+1/31/2024 12:08:18,Jis,Male,,Ernakulam,1,0,0,1,1,0,1,0,125/75,300000,1
+1/31/2024 12:10:33,Krish,Male,,Idukki,0,1,0,0,1,0,1,0,110/70,106000,0
+1/31/2024 12:11:14,Rahman,Male,,Trivandrum,0,1,1,1,1,0,0,0,130/90,120000,1
+1/31/2024 12:11:31,Sadha,Female,,Kollam,0,0,1,1,0,0,0,0,120/80,123780,1
+1/31/2024 12:11:48,Kuttappan,Male,,Trivandrum,1,0,1,0,1,1,1,0,100/60,200000,1
+1/31/2024 12:12:05,Manju ,Female,,Alappuzha ,1,0,0,1,0,1,0,1,120/80,300000,1
+1/31/2024 12:13:56,Jesna ,Female,,Kollam,1,1,0,0,0,0,0,0,120/80,300000,0
+1/31/2024 12:15:08,Rijosh,Male,,Ernakulam ,1,1,1,1,0,1,1,0,125/85,154500,0
+1/31/2024 12:15:44,Robert,Male,,Ernakulam,0,1,0,0,1,1,0,0,120/75,230000,1
+1/31/2024 12:16:24,Kathy,Female,,Trivandrum ,0,0,0,1,0,0,0,1,120/80,155500,0
+1/31/2024 12:16:31,Luke ,Male,,Alappuzha ,0,0,0,0,0,0,1,1,125/85,200000,1
+1/31/2024 12:18:52,Kavya,Female,,Kollam,1,1,1,1,0,1,1,1,90/60,134550,0
+1/31/2024 12:19:01,Dony,Male,,Alappuzha,0,0,1,0,0,1,1,1,130/70,300000,1
+1/31/2024 12:19:26,Matthew ,Male,,Alappuzha,1,1,1,1,1,1,1,1,90/60,250000,0
+1/31/2024 12:21:44,Kunjumon,Male,,Kottayam,1,0,1,1,0,1,0,1,99/62,118000,1
+1/31/2024 12:21:54,Xavier,Male,,Kollam,0,1,1,1,1,1,0,1,120/60,250000,1
+1/31/2024 12:21:55,Mark,Male,,Kottayam ,1,0,0,1,0,1,0,0,90/60,450000,0
+1/31/2024 12:23:55,Hrithik,Male,,Pathanamthitta,0,1,0,0,0,1,1,0,150/70,150000,1
+1/31/2024 12:26:10,Mohammed,Male,,Alappuzha,0,0,0,0,0,0,1,1,125/90,200000,1
+1/31/2024 12:44:22,Vijay,Male,,Kochi,1,1,1,0,1,1,1,0,130/90,300000,0
+1/31/2024 12:46:48,Dennis,Male,,Trivandrum,1,1,0,0,1,0,1,1,90/60,240000,0
+1/31/2024 12:49:24,Aaron,Male,,Kottayam,1,0,1,1,0,0,0,1,128/84,300000,1
+1/31/2024 12:54:40,Das,Male,,Kollam,0,0,1,1,1,1,1,1,125/80,150000,0
+1/31/2024 13:31:59,P. E Ricky,Male,perickyme0n@gmail.com,Kozhikode,1,0,1,1,1,1,1,1,90/70,240000,1
+1/31/2024 14:08:00,Sajan NP,Male,,Kottayam ,1,1,1,0,0,0,1,1,126/33,200000,1
+1/31/2024 15:43:25,Kailas,Male,dreamerlucid10@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,126/90,240000,1
+1/31/2024 15:52:24,Saikiran ,Male,,Alappuzha ,0,0,0,0,0,0,0,0,120/80,230000,0
+1/31/2024 15:52:25,Darshana,Female,,Kollam,1,0,1,0,0,1,1,1,90/65,135000,0
+1/31/2024 15:54:19,Arjun ,Male,arjunleo0011@gmail.com,Alappuzha ,0,0,0,0,1,0,0,1,120/85,200000,1
+1/31/2024 16:01:44,Abhimaneu ,Male,abhimaneubenni@gmail.com,Alappuzha ,0,0,0,1,0,0,0,0,118/80,120000,0
+2/1/2024 1:49:13,Nandikesh S,Male,nandikeshsajeev@gmail.com,Alappuzha,1,1,0,1,0,0,0,0,118/62,500000,1
+2/1/2024 8:51:43,Nijohn,Male,,Idukki,1,0,1,1,0,0,0,1,120/60,200000,1
+2/1/2024 8:52:53,Joppen,Male,,Kottayam,0,0,0,0,0,0,0,0,100/99,200000,0
+2/1/2024 15:16:16,Bhavana,Female,,Ernakulam,1,0,1,0,1,1,1,1,95/60,145000,0
+2/1/2024 16:01:40,Sandra,Female,,Kottayam,0,0,0,1,0,0,0,0,125/80,335890,1
+2/1/2024 16:02:54,Savio,Male,,Kottayam,1,1,0,1,0,1,1,0,100/70,145990,0
+1/29/2024 12:14:51,Rosh,Male,rrherox007@gmail.com,Pathanamthitta,1,0,1,1,0,1,0,1,120/85,450000,1
+1/29/2024 13:40:14,Prayag,Male,prxyag99@gmail.com,Kollam,1,0,1,1,1,1,1,1,145/90,650000,1
+1/29/2024 14:17:13,Navin,Male,navinshibu12@gmail.com,Kollam,1,1,1,1,1,1,1,1,95/64,115000,0
+1/29/2024 14:20:44,Nitha,Female,navinshibu12@gmail.com,Kollam,1,0,1,0,1,0,1,0,155/98,125000,0
+1/29/2024 14:20:26,Navin,Male,navinshibu12@gmail.com,Kollam,0,1,0,1,0,1,0,1,125/88,255000,1
+1/29/2024 14:23:24,Shibu,Male,navinshibu12@gmail.com,Kollam,1,0,1,0,0,1,1,1,99/76,98000,1
+1/29/2024 14:24:52,Jaice,Female,navinshibu12@gmail.com,Kollam,0,1,0,1,0,1,1,0,122/89,380000,0
+1/29/2024 14:28:06,Roshan,Male,rrherox007@gmail.com,Pathanamthitta,0,1,1,0,1,1,1,0,89/66,130000,1
+1/29/2024 14:30:30,Roy,Male,rrherox007@gmail.com,Pathanamthitta,1,1,1,1,1,1,1,1,88/56,233000,0
+1/29/2024 14:31:42,Siji,Female,rrherox007@gmail.com,Pathanamthitta,0,0,1,1,1,1,0,1,122/82,261000,1
+1/29/2024 14:34:02,Rayson,Male,rrherox007@gmail.com,Pathanamthitta,1,1,1,0,0,0,0,1,79/55,315000,1
+1/31/2024 9:02:02,Riza,Female,riyamercethomasrmt@gmail.com,Kottayam,1,0,1,1,0,1,0,1,120/80,335000,1
+1/29/2024 14:38:57,Varghese,Male,rrherox007@gmail.com,Pathanamthitta,0,1,0,1,1,1,0,0,122/84,109000,0
+1/29/2024 14:42:13,Mercy,Female,riyamercethomasrmt@gmail.com,Kottayam,0,1,1,1,1,0,0,1,130/90,150000,0
+1/29/2024 14:42:48, Mercy,Female,rrherox007@gmail.com,Pathanamthitta,1,1,1,0,0,0,0,0,120/80,374000,1
+1/29/2024 14:50:46,Thomas,Male,riyamercethomasrmt@gmail.com,Kottayam,1,1,1,1,1,1,0,1,125/85,130000,0
+1/29/2024 14:53:07,George,Male,rrherox007@gmail.com,Pathanamthitta,1,1,0,1,0,1,1,1,125/80,123000,0
+1/29/2024 14:58:10,Aby,Male,,Alappuzha,1,0,1,0,0,1,1,0,82/58,102000,0
+1/29/2024 14:58:51,Karthik,Male,,Alappuzha,0,0,0,0,0,0,0,0,100/70,321000,1
+1/29/2024 14:59:50,Suresh,Male,,Alappuzha,1,1,1,1,1,1,0,1,125/86,234000,1
+1/29/2024 15:01:08,Vidhya,Female,,Alappuzha,1,1,1,1,1,1,1,1,111/66,120000,0
+1/29/2024 15:02:22,Sini,Female,riyamercethomasrmt@gmail.com,Kottayam,1,1,1,1,1,1,0,1,125/80,450000,0
+1/29/2024 15:02:25,Vignesh,Male,,Alappuzha,0,1,0,1,0,1,0,0,83/49,508000,1
+1/29/2024 15:03:49,Rohan,Male,,Ernakulam,0,0,1,1,0,0,1,1,129/92,402000,0
+1/29/2024 15:03:57,Beroy,Male,riyamercethomas@gmail.com,Kottayam,0,0,1,1,0,0,0,1,120/80,225500,0
+1/29/2024 15:08:04,Akhil,Male,,Ernakulam,1,0,1,1,0,0,0,1,130/90,520000,0
+1/29/2024 15:14:22,Richa,Female,riyamercethomas@gmail.com,Kottayam,0,1,1,0,0,1,0,1,100/70,123005,0
+1/29/2024 15:19:33,Sara,Female,riyamercethomas@gmail.com,Kottayam,1,1,1,1,0,1,0,0,150/95,350000,0
+1/29/2024 15:21:36,Mary,Female,riyamercethomas@gmail.com,Kottayam,0,0,1,1,1,1,0,1,130/85,145005,1
+1/29/2024 15:23:40,Joseph,Male,rriyamercethoma@gmail.com,Kottayam,1,0,1,1,1,1,1,1,150/90,455500,0
+1/29/2024 15:25:31,Christeena,Female,christy@gmail.com,Kottayam,1,1,1,1,0,1,0,1,98/65,175000,0
+1/29/2024 15:30:23,Raju,Male,rajj@gmail.com,Kottayam,0,1,1,1,1,1,1,0,125/85,335500,0
+1/29/2024 15:32:34,Neenu,Female,neenumaria@gmail.com,Kottayam,1,0,1,1,0,1,1,1,135/86,140500,1
+1/29/2024 15:34:36,Meenu,Female,meenu@gmail.com,Kottayam,1,1,1,1,1,1,0,0,110/75,135990,0
+1/29/2024 15:46:53,Joyal,Male,joyall@gmail.com,Kottayam,1,0,1,1,0,0,0,1,125/80,250000,1
+1/29/2024 15:50:23,Christo,Male,christo@gmail.com,Kottayam,1,0,1,1,0,1,0,1,121/81,133997,1
+1/29/2024 15:59:25,Leo,Male,,Kottayam ,1,1,1,1,1,0,0,1,110/80,250000,0
+1/30/2024 15:39:55,Geetha,Female,geetha@gmail.com,Kottayam,0,0,1,0,0,0,0,0,120/80,345500,1
+1/31/2024 9:02:10,Mariyam ,Female,emammariyam@gmail.com,Trivandrum,1,0,1,1,0,0,0,1,120/80,500000,0
+1/31/2024 9:02:27,Sreelakshmi A ,Female,sreelakshmianish20@gmail.com,Kottayam ,0,0,0,1,0,0,0,0,120/80,175000,0
+1/31/2024 9:02:27,Ranvijay,Male,,Idukki,1,0,1,0,1,0,0,1,96/55,120000,0
+1/31/2024 9:03:31,Karthik ,Male,karthikskumar2@gmail.com,Alappuzha,0,0,1,1,0,0,0,1,125/85,150000,0
+1/31/2024 9:03:53,Arjun ,Male,arjunjayan76@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,150/95,500000,0
+1/31/2024 9:03:58,Aafia,Female,,Trivandrum,1,1,1,0,1,1,0,1,90/60,100000,0
+1/31/2024 9:04:20,Riyaz,Male,,Idukki,1,1,0,0,1,1,0,0,80/50,234000,0
+1/31/2024 9:05:55,Salman,Male,,Trivandrum,1,0,1,1,0,1,0,1,90/60,330000,1
+1/31/2024 9:06:37,Lakshmi ,Female,,Kottayam,1,0,1,1,1,0,1,0,100/75,200000,1
+1/31/2024 9:06:47,Karthik S,Male,karthiksabhal2001@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,125/85                                                 ,400000,0
+1/31/2024 9:07:18,Rahul,Male,,Kollam,0,1,1,1,0,0,0,1,120/80,205000,0
+1/31/2024 9:14:16,Elias ,Male,eliastkurian@gmail.com,Kottayam ,0,0,0,0,0,0,0,0,125/85,350000,0
+1/31/2024 9:17:30,Kevin ,Male,,Kottayam ,0,0,0,0,0,0,0,0,100/70                                              ,360987,0
+1/31/2024 9:28:26,Vaisakhkrishnan ,Male,kvaisakhkrishnan@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,130/90,300000,0
+1/31/2024 9:49:19,Ebeal ,Male,ebealjb000@gmail.com,Idukki ,0,0,0,0,0,0,0,0,120/80,354500,0
+1/31/2024 9:59:34,Ashiq,Male,,Ernakulam,1,1,1,1,0,0,0,1,134/85,130000,0
+1/31/2024 10:00:36,Sushmitha,Female,,Pathanamthitta,1,1,0,1,0,1,1,1,149/93,267000,0
+1/31/2024 10:04:44,Athira,Female,,Ernakulam,1,0,1,1,0,1,0,0,120/80,200000,1
+1/31/2024 10:06:33,Bru0,Male,,Kottayam,1,0,1,0,1,0,1,1,109/69,355000,0
+1/31/2024 10:07:23,Manas,Male,,Pathanamthitta,0,0,0,0,0,1,0,1,90/60,145000,0
+1/31/2024 10:09:12,Akhil,Male,,Kollam,0,1,0,1,1,1,0,1,130/90,190000,0
+1/31/2024 10:10:12,Rima,Female,,Kottayam,1,0,1,1,0,0,1,0,114/73,124000,1
+1/31/2024 10:10:35,Rema,Female,,Kottayam,1,0,0,1,1,1,1,1,125/86,350000,0
+1/31/2024 10:11:16,Abraham,Male,,Alappuzha,0,0,0,0,0,0,0,0,125/75,200000,0
+1/31/2024 10:12:33,Stormi,Female,,Pathanamthitta,1,0,1,1,0,0,0,0,125/84,325000,0
+1/31/2024 10:12:57,Reema,Female,,Ernakulam,1,0,1,1,0,1,1,1,128/85,223005,0
+1/31/2024 10:14:31,Govind,Male,,Ernakulam,1,0,1,0,0,0,1,0,130/85,300000,0
+1/31/2024 10:15:20,Tessa,Female,,Kollam ,1,1,1,1,0,1,0,0,130/87,145000,0
+1/31/2024 10:15:23,Krishnakumar,Male,,Kollam,1,1,0,1,1,0,0,0,120/77,372000,0
+1/31/2024 10:15:35,Joby,Male,,Kottayam,1,0,1,1,0,0,0,0,125/75,195000,1
+1/31/2024 10:16:35,Ganeshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,128/87,350000,0
+1/31/2024 10:17:36,Sita,Female,,Kottayam ,0,0,0,1,0,0,0,0,120/80,445000,0
+1/31/2024 10:17:39,Sureshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,122/88,317000,0
+1/31/2024 10:18:34,Hymavathiamma,Female,,Alappuzha,0,1,0,1,0,0,1,1,135/75,150000,0
+1/31/2024 10:19:00,Karthika,Female,,Kottayam,0,0,0,0,0,0,0,0,124/84,235000,0
+1/31/2024 10:20:27,Ramanan,Male,,Kottayam,0,0,0,1,0,1,0,1,120/80,354000,0
+1/31/2024 10:20:38,Rameshkumar,Male,,Kollam,0,0,0,0,0,0,0,0,126/87                                               ,179000,0
+1/31/2024 10:21:09,Rahul,Male,,Alappuzha,0,0,0,0,0,0,0,0,120/85,160000,0
+1/31/2024 10:22:51,Fahad,Male,,Ernakulam,0,1,0,0,1,1,0,0,120/85,250000,0
+1/31/2024 10:23:01,Niggeshkumar,Male,,Kollam,0,0,0,0,0,0,0,1,132/89,344000,0
+1/31/2024 10:23:08,Akshay ,Male,akshaymurali002@gmail.com,Kollam,1,1,1,1,0,0,0,0,115/85,350000,0
+1/31/2024 10:23:42,Ajay,Male,,Ernakulam,0,0,0,1,0,0,0,0,127/85,415000,0
+1/31/2024 10:25:56,Kumari,Female,,Ernakulam,1,1,1,0,1,1,1,0,135/90,460000,0
+1/31/2024 10:27:46,Meera,Female,,Kottayam ,0,0,1,0,0,0,0,0,125/80,234500,0
+1/31/2024 10:27:54,Sukumar,Male,,Kollam,1,0,1,1,0,1,0,1,109/70,128000,1
+1/31/2024 10:30:28,Aswin,Male,aswinsanthosh1983@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,100/70                                               ,450000,0
+1/31/2024 10:32:35,Vikaskumar,Male,,Ernakulam,1,0,1,0,1,1,1,1,140/95,111000,1
+1/31/2024 10:32:49,Sukathakumari,Female,,Ernakulam,0,0,1,1,0,0,0,0,130/85,235000,0
+1/31/2024 10:33:57,Nazim,Female,,Ernakulam,1,0,0,0,0,1,0,0,120/80,150000,1
+1/31/2024 10:35:11,Afra,Female,,Kollam,0,0,0,0,0,1,0,0,125/70,200000,0
+1/31/2024 10:35:18,Geetanjali,Female,,Kollam,0,1,1,0,1,1,0,0,121/81,350000,1
+1/31/2024 10:35:34,Seema,Female,,Ernakulam,1,1,1,1,0,1,0,1,90/60,123000,1
+1/31/2024 10:37:55,Haroon,Male,,Alappuzha,0,1,1,1,1,0,0,1,120/80,250000,0
+1/31/2024 10:38:19,Anjana,Female,,Kollam,0,0,0,1,1,1,0,0,130/80,230000,1
+1/31/2024 10:39:26,Loki,Male,,Alappuzha,1,1,1,1,1,1,1,1,137/92,375000,0
+1/31/2024 11:13:40,Soman,Male,,Ernakulam,1,0,1,0,1,0,0,0,115/69,120000,0
+1/31/2024 11:13:59,Sanjana,Female,,Ernakulam,1,0,1,1,0,0,0,0,90/65,123576,0
+1/31/2024 11:16:43,Shyam ,Male,,Alappuzha,0,0,0,0,0,1,0,0,90/60,230000,1
+1/31/2024 11:16:47,Jasmina ,Female,,Ernakulam,0,0,0,0,0,0,0,0,120/80,155500,1
+1/31/2024 11:17:42,Subhash,Male,,Pathanamthitta,0,1,1,0,1,1,1,0,128/86,145000,0
+1/31/2024 11:18:03,Merisa,Female,,Kollam,1,0,0,1,0,0,1,0,128/75,350000,1
+1/31/2024 11:18:13,Krishnankutty,Male,,Pathanamthitta,1,1,1,1,1,1,1,1,90/60,123000,1
+1/31/2024 11:19:06,Rikshi,Female,,Ernakulam,0,0,0,1,0,0,0,1,120/80,450000,0
+1/31/2024 11:20:10,Amal ,Male,,Ernakulam,1,0,0,1,1,1,1,1,120/80,300000,1
+1/31/2024 11:21:15,Sana,Female,,Kottayam,0,0,0,0,0,0,0,0,120/82,453000,0
+1/31/2024 11:21:23,Abhishek,Male,,Alappuzha,0,1,0,0,1,1,1,1,150/95,320000,0
+1/31/2024 11:22:21,Tessa,Female,,Kottayam,0,0,1,0,0,1,0,0,120/83,350000,0
+1/31/2024 11:24:28,Leya,Female,,Kottayam ,0,0,0,0,0,0,1,1,90/60,123000,1
+1/31/2024 11:24:50,Ligi,Male,,Alappuzha,0,0,1,1,0,0,1,1,120/80,150000,0
+1/31/2024 11:26:36,Kesiya,Female,,Ernakulam,0,0,1,1,0,0,0,0,95/60,123005,1
+1/31/2024 11:50:32,Shiva,Male,,Trivandrum,0,1,1,0,1,1,0,0,130/98,385000,0
+1/31/2024 11:52:05,Vishnu,Male,,Pathanamthitta,1,0,1,1,0,1,1,1,100/75,321000,1
+1/31/2024 11:53:05,Kamal,Male,,Ernakulam,1,1,1,1,0,0,1,1,120/80,150000,0
+1/31/2024 11:53:06,Malu,Female,,Kottayam,1,0,1,0,1,1,1,1,111/73,354000,0
+1/31/2024 11:54:34,Kiran,Male,,Ernakulam,1,1,1,1,0,1,1,0,95/58,150005,1
+1/31/2024 11:54:57,Mahesh,Male,,Kollam,1,0,1,1,0,1,1,1,120/76,432000,0
+1/31/2024 11:56:07,Rithu,Female,,Kollam,1,0,1,1,0,1,1,1,106/71,128000,1
+1/31/2024 11:57:04,Esha,Female,,Kollam,1,0,0,1,1,1,0,1,121/85,357009,0
+1/31/2024 12:07:21,Ronnie,Male,,Pathanamthitta,1,0,1,1,0,1,0,1,112/78,124000,1
+1/31/2024 15:50:14,Ahana,Female,,Kottayam ,1,0,1,1,0,0,0,1,90/60,123900,0
+1/31/2024 12:08:18,Jis,Male,,Ernakulam,1,0,0,1,1,0,1,0,125/75,300000,1
+1/31/2024 12:10:33,Krish,Male,,Idukki,0,1,0,0,1,0,1,0,110/70,106000,1
+1/31/2024 12:11:14,Rahman,Male,,Trivandrum,0,1,1,1,1,0,0,0,130/90,120000,0
+1/31/2024 12:11:31,Sadha,Female,,Kollam,0,0,1,1,0,0,0,0,120/80,123780,1
+1/31/2024 12:11:48,Kuttappan,Male,,Trivandrum,1,0,1,0,1,1,1,0,100/60,200000,1
+1/31/2024 12:12:05,Manju ,Female,,Alappuzha ,1,0,0,1,0,1,0,1,120/80,300000,1
+1/31/2024 12:13:56,Jesna ,Female,,Kollam,1,1,0,0,0,0,0,0,120/80,300000,1
+1/31/2024 12:15:08,Rijosh,Male,,Ernakulam ,1,1,1,1,0,1,1,0,125/85,154500,0
+1/31/2024 12:15:44,Robert,Male,,Ernakulam,0,1,0,0,1,1,0,0,120/75,230000,0
+1/31/2024 12:16:24,Kathy,Female,,Trivandrum ,0,0,0,1,0,0,0,1,120/80,155500,1
+1/31/2024 12:16:31,Luke ,Male,,Alappuzha ,0,0,0,0,0,0,1,1,125/85,200000,0
+1/31/2024 12:18:52,Kavya,Female,,Kollam,1,1,1,1,0,1,1,1,90/60,134550,1
+1/31/2024 12:19:01,Dony,Male,,Alappuzha,0,0,1,0,0,1,1,1,130/70,300000,0
+1/31/2024 12:19:26,Matthew ,Male,,Alappuzha,1,1,1,1,1,1,1,1,90/60,250000,1
+1/31/2024 12:21:44,Kunjumon,Male,,Kottayam,1,0,1,1,0,1,0,1,99/62,118000,0
+1/31/2024 12:21:54,Xavier,Male,,Kollam,0,1,1,1,1,1,0,1,120/60,250000,1
+1/31/2024 12:21:55,Mark,Male,,Kottayam ,1,0,0,1,0,1,0,0,90/60,450000,1
+1/31/2024 12:23:55,Hrithik,Male,,Pathanamthitta,0,1,0,0,0,1,1,0,150/70,150000,0
+1/31/2024 12:26:10,Mohammed,Male,,Alappuzha,0,0,0,0,0,0,1,1,125/90,200000,1
+1/31/2024 12:44:22,Vijay,Male,,Kochi,1,1,1,0,1,1,1,0,130/90,300000,1
+1/31/2024 12:46:48,Dennis,Male,,Trivandrum,1,1,0,0,1,0,1,1,90/60,240000,0
+1/31/2024 12:49:24,Aaron,Male,,Kottayam,1,0,1,1,0,0,0,1,128/84,300000,0
+1/31/2024 12:54:40,Das,Male,,Kollam,0,0,1,1,1,1,1,1,125/80,150000,1
+1/31/2024 13:31:59,P. E Ricky,Male,perickyme0n@gmail.com,Kollam,1,0,1,1,1,1,1,1,90/70,300000,0
+1/31/2024 14:08:00,Sajan NP,Male,,Kottayam ,1,1,1,0,0,0,1,1,126/33,200000,1
+1/31/2024 15:43:25,Kailas,Male,dreamerlucid10@gmail.com,Alappuzha,0,0,0,0,0,0,0,0,126/90,240000,1
+1/31/2024 15:52:24,Saikiran ,Male,,Alappuzha ,0,0,0,0,0,0,0,0,120/80,150000,1
+1/31/2024 15:52:25,Darshana,Female,,Kollam,1,0,1,0,0,1,1,1,90/65,135000,0
+1/31/2024 15:54:19,Arjun ,Male,arjunleo0011@gmail.com,Alappuzha ,0,0,0,0,1,0,0,1,120/85,200000,0
+1/31/2024 16:01:44,Abhimaneu ,Male,abhimaneubenni@gmail.com,Alappuzha ,0,0,0,1,0,0,0,0,118/80,240000,1
+2/1/2024 1:49:13,Nandikesh S,Male,nandikeshsajeev@gmail.com,Alappuzha,1,1,0,1,0,0,0,0,118/62,500000,0
+2/1/2024 8:51:43,Nijohn,Male,,Idukki,1,0,1,1,0,0,0,1,120/60,200000,1
+2/1/2024 8:52:53,Joppen,Male,,Kottayam,0,0,0,0,0,0,0,0,100/99,200000,1
+2/1/2024 15:16:16,Bhavana,Female,,Ernakulam,1,0,1,0,1,1,1,1,95/60,145000,0
+2/1/2024 16:01:40,Sandra,Female,,Kottayam,0,0,0,1,0,0,0,0,125/80,335890,0
+2/1/2024 16:02:54,Savio,Male,,Kottayam,1,1,0,1,0,1,1,0,100/70,145990,1
